@@ -5,3 +5,9 @@ playwright-report/
 allure-results/
 allure-report/
 monocart-report/
+
+# Playwright
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
